@@ -1,0 +1,35 @@
+Index,Title,Director_1,Director_2,Release_Date,IMDb,IMDB_Metascore,Rotten_Tomatoes_Critics,Rotten_Tomatoes_Audience,Letterboxd,CinemaScore,Budget,Domestic_Gross,Worldwide_Gross,Profit,Profit_Margin
+0,Iron Man,Jon Favreau,,02/05/2008,7.9,79,94,91,3.7,A,140,319,585.8,445.8,318.4285714
+1,The Incredible Hulk,Louis Leterrier,,13/06/2008,6.6,61,68,69,2.5,A-,150,134.8,265.5,115.5,77
+2,Iron Man 2,Jon Favreau,,07/05/2010,6.9,57,72,71,2.9,A,200,312.4,623.9,423.9,211.95
+3,Thor,Kenneth Branagh,,06/05/2011,7,57,77,76,2.8,B+,150,181,449.3,299.3,199.5333333
+4,Captain America: The First Avenger,Joe Johnston,,22/07/2011,6.9,66,80,75,3.3,A-,215,176.7,370.6,155.6,72.37209302
+5,The Avengers,Joss Whedon,,04/05/2012,8,69,91,91,3.7,A+,225,623.4,1521,1296,576
+6,Iron Man 3,Shane Black,,03/05/2013,7.1,62,79,78,3,A,200,409,1215,1015,507.5
+7,Thor: The Dark World,Alan Taylor,,08/11/2013,6.7,54,67,75,2.2,A-,272,206.4,644.8,372.8,137.0588235
+8,Captain America: The Winter Soldier,Anthony Russo,Joe Russo,04/04/2014,7.7,70,90,92,3.7,A,177,259.8,714.4,537.4,303.6158192
+9,Guardians of the Galaxy,James Gunn,,01/08/2014,8,76,92,92,3.8,A,196,333.7,773.4,577.4,294.5918367
+10,Avengers: Age of Ultron,Joss Whedon,,01/05/2015,7.3,66,76,82,3.1,A,365,459,1405,1040,284.9315068
+11,Ant-Man,Peyton Reed,,17/07/2015,7.2,64,83,85,3.2,A,169,180.2,519.3,350.3,207.2781065
+12,Captain America: Civil War,Anthony Russo,Joe Russo,06/05/2016,7.8,75,90,89,3.6,A,250,408.1,1155,905,362
+13,Doctor Strange,Scott Derrickson,,04/08/2016,7.5,72,89,86,3.4,A,236,232.6,677.8,441.8,187.2033898
+14,Guardians of the Galaxy Vol. 2,James Gunn,,05/05/2017,7.6,67,85,87,3.5,A,200,389.8,869,669,334.5
+15,Spider-Man: Homecoming,Jon Watts,,07/07/2017,7.4,73,92,87,3.5,A,175,334.2,880.9,705.9,403.3714286
+16,Thor: Ragnarok,Taika Waititi,,03/11/2017,7.9,74,93,87,3.7,A,180,316,865,685,380.5555556
+17,Black Panther,Ryan Coogler,,16/02/2018,7.3,88,96,79,3.7,A+,200,700.4,1350,1150,575
+18,Avengers: Infinity War,Anthony Russo,Joe Russo,27/04/2018,8.4,68,85,92,4,A,400,678.8,2052,1652,413
+19,Ant-Man and the Wasp,Peyton Reed,,06/07/2018,7,70,87,79,2.9,A-,195,216.6,622.7,427.7,219.3333333
+20,Captain Marvel,Anna Boden,Ryan Fleck,08/03/2019,6.8,64,79,45,2.7,A,175,426.8,1131,956,546.2857143
+21,Avengers: Endgame,Anthony Russo,Joe Russo,26/04/2019,8.4,78,94,90,3.9,A+,400,858.4,2799,2399,599.75
+22,Spider-Man: Far From Home,Jon Watts,,02/07/2019,7.4,69,91,95,3.4,A,160,391.3,1133,973,608.125
+23,Black Widow,Cate Shortland,,09/07/2021,6.6,68,79,91,2.9,A-,288,183.7,379.8,91.8,31.875
+24,Shang-Chi and the Legend of the Ten Rings,Destin Daniel Cretton,,03/07/2021,7.4,71,92,98,3.4,A,200,224.5,432.2,232.2,116.1
+25,Eternals,Chloe Zhao,,05/11/2021,6.3,52,47,77,2.7,B,236,164.9,402.1,166.1,70.38135593
+26,Spider-Man: No Way Home,Jon Watts,,17/12/2021,8.2,71,93,98,3.8,A+,200,814.9,1952,1752,876
+27,Doctor Strange in the Multiverse of Madness,Sam Raimi,,06/05/2022,6.9,60,74,85,2.9,B+,350,411.3,955.8,605.8,173.0857143
+28,Thor: Love and Thunder,Taika Waititi,,08/07/2022,6.2,57,63,76,2.4,B+,250,343.3,760.9,510.9,204.36
+29,Black Panther: Wakanda Forever,Ryan Coogler,,11/11/2022,6.7,67,84,94,3.3,A,250,453.8,859.2,609.2,243.68
+30,Ant-Man and the Wasp: Quantumania,Peyton Reed,,17/02/2023,5.5,48,46,82,2.2,B,330,214.5,476.1,146.1,44.27272727
+31,Guardians of the Galazy Vol. 3,James Gunn,,05/05/2023,6,64,82,94,4,A,250,358.9,845.6,595.6,238.24
+32,The Marvels,Nia DaCosta,,10/11/2023,7.9,50,62,81,2.6,B,219.8,84.5,206.1,-13.7,-6.232939035
+33,Deadpool & Wolverine,Shawn Levy,,26/07/2024,7.8,56,78,94,3.6,A,200,636.7,1338,1138,569
