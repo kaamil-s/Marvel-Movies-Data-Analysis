@@ -16,7 +16,7 @@ This project explores data from Marvel Cinematic Universe (MCU) movies to analyz
 - **Data Cleaning & Preprocessing**: Handling missing values, formatting data
 - **Statistical Analysis**: Analyzing trends in revenue & ratings
 - **Data Visualization**: Charts & graphs using Python & Power BI
-- **Power BI Dashboard**: Interactive visualizations for insights (coming soon)
+- **Power BI Dashboard**: Interactive visualizations for insights
 
 ## 📂 Dataset
 
