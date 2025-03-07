@@ -11,6 +11,9 @@ This project explores data from Marvel Cinematic Universe (MCU) movies to analyz
 - Profitability trends
 - Insights using Python (Pandas, Seaborn, Matplotlib) & Power BI
 
+
+
+
 ## ✨ Features
 
 - **Data Cleaning & Preprocessing**: Handling missing values, formatting data
@@ -45,7 +48,10 @@ This project explores data from Marvel Cinematic Universe (MCU) movies to analyz
 - Run Python scripts in `notebooks/marvel_movie_analysis.py`
 - Check `reports/Report.md` for findings
 
-## 📊 Visualizations
+## 📊 Power BI Dashboard
+🔗 [View the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZmQxNDY3ZGYtMmI1OC00NzQxLTkyMGItYTBiNTdjZTcwNDZlIiwidCI6IjM0YmQ4YmVkLTJhYzEtNDFhZS05ZjA4LTRlMGEzZjExNzA2YyJ9&embedImagePlaceholder=true&pageName=ee32cbbc8805bcbf437b)
+
+### Preview
 ![Marvel_ss](https://github.com/user-attachments/assets/3a1dff27-c56a-4092-9c56-57797e1958f3) 
 
 
